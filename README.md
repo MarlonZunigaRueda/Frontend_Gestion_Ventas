@@ -1,24 +1,70 @@
-# Frontend_Gestion_Ventas
-Parte visual de la aplicación.
+# Getting Started with Create React App
 
-# Proyecto_Ciclo_3
-Se propone analizar, diseñar y construir una aplicación software que permita controlar las ventas físicas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Presentación
+## Available Scripts
 
-Soy Marlon Zuñiga Rueda, estudié Ingeniero Electrónico y Mantenimiento Aeronáutico, en la actualidad me interesa mucho el desarrollo de software, por eso decidí ingresar a Misión TIC 2020-2021. Vivo en la ciudad de Montería y tengo 34 años.
+In the project directory, you can run:
 
-Soy Carlos Andres Mosquera Garcia, ingeniero de sistemas recien egresado de la uniremington, tengo 34 años y vivo en el municipio de Apartadó, me gustaria iniciar mi experiencia laboral como programador ya que mi campo de experiencia es soporte tecnico
+### `npm start`
 
-Soy William Potes, estudiante de ingenieria de sistemas, tengo 34 años, de cali
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Soy Mateo Soto Arango, estudio matemáticas en la UdeA, tengo 22 años, vivo en Envigado.
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Soy Leydy Valencia, técnica en salud oral, interesada por el software y por incursionar en este nuevo mundo. Por lo cual decidí ingresar a Misión TIC 2020-2021. Vivo en la ciudad de Bogota D.C. y tengo 33 años.
+### `npm test`
 
-Participantes
-	- Marlon Stiven Zuñiga Rueda 
-	- Carlos Andres Mosquera Garcia 
-	- William Potes 
-	- Mateo Soto Arango
-	- Leydy Valencia
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
